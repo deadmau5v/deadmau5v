@@ -1,7 +1,6 @@
 <!--我用AE自己做的-->
 <img src="https://cdn.d5v.cc/githubprint.gif" align="center" width="100%"/>
-<br>
-<br>
+
 <p align="center" style="background: linear-gradient(to right bottom, #8888c8, #343487); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size:2em; font-family: 'Arial'; border-bottom: none;">
     不攀比做自己
 </p>
