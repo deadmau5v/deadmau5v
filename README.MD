@@ -1,5 +1,5 @@
 
-<p>
+<p align="center">
 <img src="https://cdn.d5v.cc/githubprint.gif" align="center" width="100%"/>
 
 <br> <br> <!-- 最常用的语言 -->
