@@ -1,14 +1,14 @@
-<center>
-    <img src="https://cdn.d5v.cc/githubprint.gif" align="center">
-</center>
+
+<img src="https://cdn.d5v.cc/githubprint.gif" align="center">
+
 <br> <br> <!-- 最常用的语言 -->
-<center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadmau5v&title_color=8888c8&text_color=69aa66&locale=cn&bg_color=00000000" alt="Top Langs" align="center">
-</center>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadmau5v&title_color=8888c8&text_color=69aa66&locale=cn&bg_color=00000000" alt="Top Langs" align="center">
+
 <br> <br> <!-- Github统计 -->
-<center>
-    <img src="https://github-readme-stats.vercel.app/api?username=deadmau5v&title_color=8888c8&text_color=69aa66&locale=cn&bg_color=00000000" alt="deadmau5v's GitHub stats" align="center">
-</center>
+
+<img src="https://github-readme-stats.vercel.app/api?username=deadmau5v&title_color=8888c8&text_color=69aa66&locale=cn&bg_color=00000000" alt="deadmau5v's GitHub stats" align="center">
+
 
 <!--
 图形配色设置
