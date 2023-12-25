@@ -1,7 +1,7 @@
 <!--我用AE自己做的-->
 <img src="https://cdn.d5v.cc/githubprint.gif" align="center" width="100%"/>
 
-<img src="https://cdn.d5v.cc/deadmau5v.png" align="center" width="100%"/>
+<img src="https://cdn.d5v.cc/deadmau5v.webp" align="center" width="100%"/>
 
 <hr><br>
 <div align=center>
