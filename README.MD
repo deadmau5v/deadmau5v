@@ -109,8 +109,8 @@ theme
 ## Certificates
 
 <div align="center">
-    <img src="HW1.jpg" width="300px">
-    <img src="HW2.jpg" width="300px">
+    <img src="HW1.jpg" width="400px">
+    <img src="HW2.jpg" width="400px">
     <img src="HW3.jpg" width="300px">
     <img src="RJ1.jpg" width="300px">
     <img src="RJ2.jpg" width="300px">
