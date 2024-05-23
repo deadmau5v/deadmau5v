@@ -6,7 +6,7 @@ theme
 &bg_color=00000000    # 透明背景
 -->
 
-<img src="./LOGO.gif" align="center" width="100%"/>
+<img src="./logo.webp" align="center" width="100%"/>
 
 # About Me
 
