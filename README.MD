@@ -35,7 +35,7 @@ theme
 <img style="margin-left: 10px" src="./icons/JavaScript.png" height="30px" width="30px" alt="JavaScript">
 <img style="margin-left: 10px" src="./icons/TypeScript.png" height="30px" width="30px" alt="TypeScript">
 <img style="margin-left: 10px" src="./icons/html.png" height="30px" width="30px" alt="HTML">
-<img style="margin-left: 10px" src="./icons/CSS.png" height="30px" width="30px" alt="CSS">
+<img style="margin-left: 10px" src="./icons/css.png" height="30px" width="30px" alt="CSS">
 <img style="margin-left: 10px" src="./icons/sep.png" height="30px" width="10px" alt="Express">
 <img style="margin-left: 10px" src="./icons/React.png" height="30px" width="30px" alt="React">
 </h3>
