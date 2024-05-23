@@ -109,7 +109,11 @@ theme
 ## Certificates
 
 <div align="center">
-    <img src="HW1.jpg" alt="HW1 Certificate" width="300px">
-    <img src="HW2.jpg" alt="HW2 Certificate" width="300px">
-    <img src="HW3.jpg" alt="HW3 Certificate" width="300px">
+    <img src="HW1.jpg" width="300px">
+    <img src="HW2.jpg" width="300px">
+    <img src="HW3.jpg" width="300px">
+    <img src="RJ1.jpg" width="300px">
+    <img src="RJ2.jpg" width="300px">
+    <img src="TD1.jpg" width="300px">
+    <img src="TD2.jpg" width="300px">
 </div>
