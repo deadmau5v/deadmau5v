@@ -105,3 +105,11 @@ theme
     <img style="margin-left: 10px" src="./icons/pr.png" height="30px" width="30px" alt="Pr">
     <img style="margin-left: 10px" src="./icons/xd.png" height="30px" width="30px" alt="Xd">
 </h3>
+
+## Certificates
+
+<div align="center">
+    <img src="HW1.jpg" alt="HW1 Certificate" width="200px">
+    <img src="HW2.jpg" alt="HW2 Certificate" width="200px">
+    <img src="HW3.jpg" alt="HW3 Certificate" width="200px">
+</div>
