@@ -14,8 +14,6 @@
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deadmau5v&layout=compact&theme=transparent&hide=html,css)](https://github.com/deadmau5v)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deadmau5v&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/deadmau5v)
-
 </div>
 
 ## 💻 Technology Stack
