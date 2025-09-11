@@ -1,25 +1,20 @@
 # Hi there, I'm deadmau5v 👋
-
 <div align="center">
   <img src="./logo.webp">
 </div>
 
 ## 🌐 Personal Website
-
 [![Website](https://img.shields.io/badge/Personal_Blog-d5v.cc-8888c8?style=flat-square&logo=googlechrome&logoColor=white)](https://d5v.cc/)
 
 ## 🚀 GitHub Stats
-
 <div align="center">
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deadmau5v&layout=compact&theme=transparent&hide=html,css)](https://github.com/deadmau5v)
-
 </div>
 
 ## 💻 Technology Stack
 
 ### 🌐 Frontend Development
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,43 +23,48 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🖥️ Backend Development
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 💾 Databases
+### 🤖 AI & Machine Learning
+![Agno](https://img.shields.io/badge/Agno-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Transformer](https://img.shields.io/badge/Transformer-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-8B5CF6?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
+### 💾 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE00?style=for-the-badge&logo=apachehive&logoColor=black)
+![Milvus](https://img.shields.io/badge/Milvus-00D4AA?style=for-the-badge&logo=vector&logoColor=white)
+
+### ₿ Blockchain & Crypto
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### 🔄 Middleware & Infrastructure
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
 
 ### 🔧 DevOps & Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ### 🎨 Design Tools
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ## 📫 Connect with Me
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deadmau5v@qq.com)
 
 **💡 Always Learning, Always Growing**
+
