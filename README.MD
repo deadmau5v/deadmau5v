@@ -8,7 +8,7 @@
 
 ## 🚀 GitHub Stats
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadmau5v&layout=compact&theme=transparent&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadmau5v&layout=compact&theme=transparent&hide=html,css)
 </div>
 
 ## 💻 Technology Stack
