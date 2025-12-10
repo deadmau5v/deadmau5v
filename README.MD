@@ -6,11 +6,6 @@
 ## 🌐 Personal Website
 [![Website](https://img.shields.io/badge/Personal_Blog-d5v.cc-8888c8?style=flat-square&logo=googlechrome&logoColor=white)](https://d5v.cc/)
 
-## 🚀 GitHub Stats
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadmau5v&layout=compact&theme=transparent&hide=html,css)
-</div>
-
 ## 💻 Technology Stack
 
 ### 🌐 Frontend Development
