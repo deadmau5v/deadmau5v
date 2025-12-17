@@ -1,9 +1,5 @@
 # Hi, I'm deadmau5v 👋
 
-<div align="center">
-  <img src="./logo.webp" width="120">
-</div>
-
 <p align="center">
   <a href="https://d5v.cc">
     <img src="https://img.shields.io/badge/Blog-d5v.cc-8888c8?style=flat-square" alt="Blog">
