@@ -11,9 +11,17 @@
 
 ---
 
-Passionate about AI applications and backend development, focused on LLM engineering and Agent architecture design. Building frontends with React / Next.js, always tinkering with open-source projects. More on my [blog](https://d5v.cc).
+Passionate about AI applications and backend development, focused on LLM engineering and Agent architecture design.  
+Currently working in Developer Relations for Tencent Cloud Agent Development Platform, bridging developers, product, and real-world AI application scenarios.  
+Building frontends with React / Next.js, always tinkering with open-source projects. More on my [blog](https://d5v.cc).
 
 ---
+
+### Current Work
+
+- Developer Relations @ Tencent Cloud Agent Development Platform
+- Focused on developer ecosystem growth, technical communication, and AI Agent adoption
+- Connecting product capabilities with developers through content, demos, and community engagement
 
 ### Languages
 
